@@ -1,0 +1,7 @@
+[delorean-current]
+name=delorean-openstack-mistral-c58671344e3e6ebc7651d3d7abb1222802d25dc6
+baseurl=http://trunk.rdoproject.org/centos7/c5/86/c58671344e3e6ebc7651d3d7abb1222802d25dc6_1f5dea6d
+enabled=1
+gpgcheck=0
+priority=1
+includepkgs=diskimage-builder,instack,instack-undercloud,os-apply-config,os-cloud-config,os-collect-config,os-net-config,os-refresh-config,python-tripleoclient,openstack-tripleo-common,openstack-tripleo-heat-templates,openstack-tripleo-image-elements,openstack-tripleo,openstack-tripleo-puppet-elements,openstack-puppet-modules,puppet-*

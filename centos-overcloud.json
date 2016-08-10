@@ -2,7 +2,8 @@
     "include": "centos-atomic-host-continuous.json",
     "ref": "centos-atomic-host/7/x86_64/devel/overcloud",
     "automatic_version_prefix": "2016.0",
-    "repos": ["epel"],
+    "repos": ["epel", "delorean-newton-testing",
+              "delorean", "delorean-current"],
     "packages": [
         "ceph",
         "ceph-mon",
