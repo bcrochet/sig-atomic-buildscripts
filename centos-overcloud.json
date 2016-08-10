@@ -6,13 +6,10 @@
               "delorean", "delorean-current"],
     "packages": [
         "ceph",
-        "ceph-mon",
-        "ceph-osd",
         "ceph-radosgw",
         "certmonger",
         "fence-agents-all",
         "fence-virt",
-        "fluentd",
         "haproxy",
         "iscsi-initiator-utils",
         "libvirt",
@@ -89,9 +86,7 @@
         "python-redis",
         "rabbitmq-server",
         "redis",
-        "rubygem-fluent-plugin-add",
         "scsi-target-utils",
-        "sensu",
         "targetcli",
         "xinetd"
     ]
