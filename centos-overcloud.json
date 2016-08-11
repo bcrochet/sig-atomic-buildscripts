@@ -13,7 +13,6 @@
         "haproxy",
         "iscsi-initiator-utils",
         "libvirt",
-        "mariadb",
         "mariadb-galera-server",
         "memcached",
         "mongodb",
